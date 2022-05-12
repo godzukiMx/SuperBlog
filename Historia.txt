@@ -2,4 +2,4 @@ Esta es la historio de juanito en el curso de Git y GitHub
 
 Juanito tiene 35 añños y esta aprendiendo programacion para desarrollar videojuagos.
 
-Hoy hablaremos de su vida.
+Hoy hablaremos de su vida y obra maestra.
